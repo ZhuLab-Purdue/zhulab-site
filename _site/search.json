@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "Team.html",
+    "href": "Team.html",
+    "title": "Team members",
+    "section": "",
+    "text": "Team members"
+  },
+  {
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "zhulab-site",
@@ -21,18 +35,11 @@
     "text": "About this site"
   },
   {
-    "objectID": "Team.html",
-    "href": "Team.html",
-    "title": "Team members",
+    "objectID": "Facilities.html",
+    "href": "Facilities.html",
+    "title": "Lab Facilities",
     "section": "",
-    "text": "Team members"
-  },
-  {
-    "objectID": "Publications.html",
-    "href": "Publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Publications"
+    "text": "Lab Facilities"
   },
   {
     "objectID": "Outreach.html",
@@ -42,10 +49,10 @@
     "text": "Outreach"
   },
   {
-    "objectID": "Facilities.html",
-    "href": "Facilities.html",
-    "title": "Lab Facilities",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Lab Facilities"
+    "text": "Research"
   }
 ]
