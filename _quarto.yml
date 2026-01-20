@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Zhu Research Group"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: research
+      - href: Team.qmd
+        text: Team
+      - href: Facilities.qmd
+        text: Facilities
+      - href: Publications.qmd
+        text: Publications
+      - href: Outreach.qmd
+        text: Outreach
+    right:
+      - href: database/index.qmd
+        text: "Material Database" 
+      - href: "https://wiki.zhulab.com" # This will link to your private wiki later
+        text: "Member Login"
+
+format:
+  html:
+    theme: cosmo  # You can change this later to 'journal', 'slate', etc.
+    css: styles.css
+    toc: true
