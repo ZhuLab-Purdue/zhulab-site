@@ -2,14 +2,18 @@ project:
   type: website
   output-dir: _site
 
+metadata-files:
+  - sidebar_config.yml
+
 website:
   title: "Zhu Research Group"
+  
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: research.qmd
-        text: research
+        text: Research
       - href: Team.qmd
         text: Team
       - href: Facilities.qmd
@@ -20,9 +24,11 @@ website:
         text: Outreach
     right:
       - href: database/index.qmd
-        text: "Material Database" 
-      - href: "https://wiki.zhulab.com" # This will link to your private wiki later
+        text: "Material Database"
+      - href: "https://wiki.zhulab.com"
         text: "Member Login"
+
+  
 
 format:
   html:

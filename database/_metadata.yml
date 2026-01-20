@@ -1,6 +1,0 @@
-# This setting applies to EVERY page inside the /database/ folder
-sidebar:
-  style: docked       # Keeps it permanently visible on the left
-  search: true        # Adds a search bar for materials
-  contents: auto      # Automatically lists all sub-folders/files alphabetically
-  title: "Materials"  # Title at top of sidebar

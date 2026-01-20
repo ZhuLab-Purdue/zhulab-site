@@ -25,7 +25,11 @@
     "href": "database/index.html",
     "title": "Material Database",
     "section": "",
-    "text": "Material Database"
+    "text": "Material Database",
+    "crumbs": [
+      "Home",
+      "Overview"
+    ]
   },
   {
     "objectID": "about.html",
@@ -60,21 +64,36 @@
     "href": "database/Bi2Se3/index.html",
     "title": "Bi2Se3",
     "section": "",
-    "text": "This is a topological insulator grown on Si(111)."
+    "text": "This is a topological insulator grown on Si(111).",
+    "crumbs": [
+      "Material Database",
+      "Available Materials",
+      "Bi2Se3"
+    ]
   },
   {
     "objectID": "database/Bi2Se3/index.html#overview",
     "href": "database/Bi2Se3/index.html#overview",
     "title": "Bi2Se3",
     "section": "",
-    "text": "This is a topological insulator grown on Si(111)."
+    "text": "This is a topological insulator grown on Si(111).",
+    "crumbs": [
+      "Material Database",
+      "Available Materials",
+      "Bi2Se3"
+    ]
   },
   {
     "objectID": "database/Bi2Se3/index.html#characterization",
     "href": "database/Bi2Se3/index.html#characterization",
     "title": "Bi2Se3",
     "section": "Characterization",
-    "text": "Characterization\n\n\n\nMicroscopy/Structure"
+    "text": "Characterization\n\n\n\nStructure",
+    "crumbs": [
+      "Material Database",
+      "Available Materials",
+      "Bi2Se3"
+    ]
   },
   {
     "objectID": "database/Bi2Se3/index.html#specifications",
@@ -82,5 +101,65 @@
     "title": "Bi2Se3",
     "section": "Specifications",
     "text": "Specifications\n\nData Source: Folder Bi2Se3\nStatus: Available for collaboration"
+  },
+  {
+    "objectID": "database/Bi2Se3/index.html#key-properties",
+    "href": "database/Bi2Se3/index.html#key-properties",
+    "title": "Bi2Se3",
+    "section": "Key Properties",
+    "text": "Key Properties",
+    "crumbs": [
+      "Material Database",
+      "Available Materials",
+      "Bi2Se3"
+    ]
+  },
+  {
+    "objectID": "database/Bi2Se3 copy/index.html",
+    "href": "database/Bi2Se3 copy/index.html",
+    "title": "Bi2Se3 copy",
+    "section": "",
+    "text": "This is a topological insulator grown on Si(111).",
+    "crumbs": [
+      "Material Database",
+      "Available Materials",
+      "Bi2Se3 copy"
+    ]
+  },
+  {
+    "objectID": "database/Bi2Se3 copy/index.html#overview",
+    "href": "database/Bi2Se3 copy/index.html#overview",
+    "title": "Bi2Se3 copy",
+    "section": "",
+    "text": "This is a topological insulator grown on Si(111).",
+    "crumbs": [
+      "Material Database",
+      "Available Materials",
+      "Bi2Se3 copy"
+    ]
+  },
+  {
+    "objectID": "database/Bi2Se3 copy/index.html#key-properties",
+    "href": "database/Bi2Se3 copy/index.html#key-properties",
+    "title": "Bi2Se3 copy",
+    "section": "Key Properties",
+    "text": "Key Properties",
+    "crumbs": [
+      "Material Database",
+      "Available Materials",
+      "Bi2Se3 copy"
+    ]
+  },
+  {
+    "objectID": "database/Bi2Se3 copy/index.html#characterization",
+    "href": "database/Bi2Se3 copy/index.html#characterization",
+    "title": "Bi2Se3 copy",
+    "section": "Characterization",
+    "text": "Characterization\n\n\n\nStructure",
+    "crumbs": [
+      "Material Database",
+      "Available Materials",
+      "Bi2Se3 copy"
+    ]
   }
 ]
