@@ -1,0 +1,17 @@
+---
+title: "Bi2Se3"
+format:
+  html:
+    toc: true
+---
+
+## Overview
+This is a topological insulator grown on Si(111).
+
+## Characterization
+![Microscopy/Structure](download.jpg)
+
+## Specifications
+* **Data Source:** Folder `Bi2Se3`
+* **Status:** Available for collaboration
+
