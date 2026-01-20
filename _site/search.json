@@ -33,57 +33,6 @@
     ]
   },
   {
-    "objectID": "database/index.html",
-    "href": "database/index.html",
-    "title": "Material Database",
-    "section": "",
-    "text": "Material Database",
-    "crumbs": [
-      "Home",
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "Facilities.html",
-    "href": "Facilities.html",
-    "title": "Lab Facilities",
-    "section": "",
-    "text": "Lab Facilities\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    "crumbs": [
-      "Home",
-      " "
-    ]
-  },
-  {
-    "objectID": "Outreach.html",
-    "href": "Outreach.html",
-    "title": "Outreach",
-    "section": "",
-    "text": "Outreach",
-    "crumbs": [
-      "Home",
-      " "
-    ]
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Research",
-    "crumbs": [
-      "Home",
-      " "
-    ]
-  },
-  {
     "objectID": "database/Bi2Se3/index.html",
     "href": "database/Bi2Se3/index.html",
     "title": "Bi2Se3",
@@ -108,6 +57,18 @@
     ]
   },
   {
+    "objectID": "database/Bi2Se3/index.html#key-properties",
+    "href": "database/Bi2Se3/index.html#key-properties",
+    "title": "Bi2Se3",
+    "section": "Key Properties",
+    "text": "Key Properties\n\n\n\n\nProperty\n\n\nValue\n\n\nUnit\n\n\nMeasurement Method\n\n\n\n\n\n\nBandgap\n\n\n0.3\n\n\neV\n\n\nSTM/STS\n\n\n\n\nLattice Constant\n\n\n4.138\n\n\nAngstrom\n\n\nXRD\n\n\n\n\nSurface Mobility\n\n\n2500.0\n\n\ncm^2/Vs\n\n\nHall Effect\n\n\n\n\nGrowth Temp\n\n\n280.0\n\n\nC\n\n\nMBE\n\n\n\n\nFilm Thickness\n\n\n15.0\n\n\nQL\n\n\nRHEED\n\n\n\n\nFermi Level\n\n\n150.0\n\n\nmeV\n\n\nARPES",
+    "crumbs": [
+      "Material Database",
+      "Available Materials",
+      "Bi2Se3"
+    ]
+  },
+  {
     "objectID": "database/Bi2Se3/index.html#characterization",
     "href": "database/Bi2Se3/index.html#characterization",
     "title": "Bi2Se3",
@@ -120,22 +81,14 @@
     ]
   },
   {
-    "objectID": "database/Bi2Se3/index.html#specifications",
-    "href": "database/Bi2Se3/index.html#specifications",
-    "title": "Bi2Se3",
-    "section": "Specifications",
-    "text": "Specifications\n\nData Source: Folder Bi2Se3\nStatus: Available for collaboration"
-  },
-  {
-    "objectID": "database/Bi2Se3/index.html#key-properties",
-    "href": "database/Bi2Se3/index.html#key-properties",
-    "title": "Bi2Se3",
-    "section": "Key Properties",
-    "text": "Key Properties\n\n\n\n\nProperty\n\n\nValue\n\n\nUnit\n\n\nMeasurement Method\n\n\n\n\n\n\nBandgap\n\n\n0.3\n\n\neV\n\n\nSTM/STS\n\n\n\n\nLattice Constant\n\n\n4.138\n\n\nAngstrom\n\n\nXRD\n\n\n\n\nSurface Mobility\n\n\n2500.0\n\n\ncm^2/Vs\n\n\nHall Effect\n\n\n\n\nGrowth Temp\n\n\n280.0\n\n\nC\n\n\nMBE\n\n\n\n\nFilm Thickness\n\n\n15.0\n\n\nQL\n\n\nRHEED\n\n\n\n\nFermi Level\n\n\n150.0\n\n\nmeV\n\n\nARPES",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site",
     "crumbs": [
-      "Material Database",
-      "Available Materials",
-      "Bi2Se3"
+      "Home",
+      " "
     ]
   },
   {
@@ -184,6 +137,39 @@
       "Material Database",
       "Available Materials",
       "Bi2Se3 copy"
+    ]
+  },
+  {
+    "objectID": "Facilities.html",
+    "href": "Facilities.html",
+    "title": "Lab Facilities",
+    "section": "",
+    "text": "Lab Facilities\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "crumbs": [
+      "Home",
+      " "
+    ]
+  },
+  {
+    "objectID": "Outreach.html",
+    "href": "Outreach.html",
+    "title": "Outreach",
+    "section": "",
+    "text": "Outreach",
+    "crumbs": [
+      "Home",
+      " "
+    ]
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Research",
+    "crumbs": [
+      "Home",
+      " "
     ]
   }
 ]
