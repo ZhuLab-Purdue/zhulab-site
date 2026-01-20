@@ -2,14 +2,75 @@
 title: "Bi2Se3"
 format:
   html:
-    toc: true
+    toc: false
+    page-layout: article
 ---
 
 ## Overview
 This is a topological insulator grown on Si(111).
 
 ## Key Properties
-
+<table style="width: 1100px !important; min-width: 1100px; margin-left: auto; margin-right: auto; border-collapse: collapse; table-layout: fixed; display: table !important;">
+  <thead>
+    <tr style="background-color: #f2f2f2; border-bottom: 2px solid #ddd;">
+      <th style="width: 25.0%; padding: 10px; text-align: left; border: 1px solid #ddd; overflow-wrap: break-word;">Property</th>
+      <th style="width: 25.0%; padding: 10px; text-align: left; border: 1px solid #ddd; overflow-wrap: break-word;">Value</th>
+      <th style="width: 25.0%; padding: 10px; text-align: left; border: 1px solid #ddd; overflow-wrap: break-word;">Unit</th>
+      <th style="width: 25.0%; padding: 10px; text-align: left; border: 1px solid #ddd; overflow-wrap: break-word;">Measurement Method</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">Bandgap</td>
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">0.3</td>
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">eV</td>
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">STM/STS</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">Lattice Constant</td>
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">4.138</td>
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">Angstrom</td>
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">XRD</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">Surface Mobility</td>
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">2500.0</td>
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">cm^2/Vs</td>
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">Hall Effect</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">Growth Temp</td>
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">280.0</td>
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">C</td>
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">MBE</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">Film Thickness</td>
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">15.0</td>
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">QL</td>
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">RHEED</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">Fermi Level</td>
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">150.0</td>
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">meV</td>
+      <td style="padding: 10px; border: 1px solid #ddd; overflow-wrap: break-word;">ARPES</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Characterization
-![Structure](download.jpg)
+<table style="width: 1100px !important; table-layout: fixed; border-collapse: collapse; margin-left: auto; margin-right: auto; display: table !important;">
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="width: 300px; text-align: center; vertical-align: middle; font-weight: bold; padding: 10px; font-size: 1.5em; overflow-wrap: break-word;">download copy 2</td>
+    <td style="width: 800px; padding: 10px; vertical-align: middle;"><img src="download copy 2.jpg" style="width: 100%; height: auto; display: block;"></td>
+  </tr>
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="width: 300px; text-align: center; vertical-align: middle; font-weight: bold; padding: 10px; font-size: 1.5em; overflow-wrap: break-word;">download copy</td>
+    <td style="width: 800px; padding: 10px; vertical-align: middle;"><img src="download copy.jpg" style="width: 100%; height: auto; display: block;"></td>
+  </tr>
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="width: 300px; text-align: center; vertical-align: middle; font-weight: bold; padding: 10px; font-size: 1.5em; overflow-wrap: break-word;">download</td>
+    <td style="width: 800px; padding: 10px; vertical-align: middle;"><img src="download.jpg" style="width: 100%; height: auto; display: block;"></td>
+  </tr>
+</table>

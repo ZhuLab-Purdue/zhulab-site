@@ -4,21 +4,33 @@
     "href": "Team.html",
     "title": "Team members",
     "section": "",
-    "text": "Team members"
+    "text": "Team members",
+    "crumbs": [
+      "Home",
+      " "
+    ]
   },
   {
     "objectID": "Publications.html",
     "href": "Publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Publications"
+    "text": "Publications",
+    "crumbs": [
+      "Home",
+      " "
+    ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "zhulab-site",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "crumbs": [
+      "Home",
+      " "
+    ]
   },
   {
     "objectID": "database/index.html",
@@ -43,21 +55,33 @@
     "href": "Facilities.html",
     "title": "Lab Facilities",
     "section": "",
-    "text": "Lab Facilities"
+    "text": "Lab Facilities\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "crumbs": [
+      "Home",
+      " "
+    ]
   },
   {
     "objectID": "Outreach.html",
     "href": "Outreach.html",
     "title": "Outreach",
     "section": "",
-    "text": "Outreach"
+    "text": "Outreach",
+    "crumbs": [
+      "Home",
+      " "
+    ]
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Research"
+    "text": "Research",
+    "crumbs": [
+      "Home",
+      " "
+    ]
   },
   {
     "objectID": "database/Bi2Se3/index.html",
@@ -88,7 +112,7 @@
     "href": "database/Bi2Se3/index.html#characterization",
     "title": "Bi2Se3",
     "section": "Characterization",
-    "text": "Characterization\n\n\n\nStructure",
+    "text": "Characterization\n\n\n\ndownload copy 2\n\n\n\n\n\n\n\ndownload copy\n\n\n\n\n\n\n\ndownload",
     "crumbs": [
       "Material Database",
       "Available Materials",
@@ -107,7 +131,7 @@
     "href": "database/Bi2Se3/index.html#key-properties",
     "title": "Bi2Se3",
     "section": "Key Properties",
-    "text": "Key Properties",
+    "text": "Key Properties\n\n\n\n\nProperty\n\n\nValue\n\n\nUnit\n\n\nMeasurement Method\n\n\n\n\n\n\nBandgap\n\n\n0.3\n\n\neV\n\n\nSTM/STS\n\n\n\n\nLattice Constant\n\n\n4.138\n\n\nAngstrom\n\n\nXRD\n\n\n\n\nSurface Mobility\n\n\n2500.0\n\n\ncm^2/Vs\n\n\nHall Effect\n\n\n\n\nGrowth Temp\n\n\n280.0\n\n\nC\n\n\nMBE\n\n\n\n\nFilm Thickness\n\n\n15.0\n\n\nQL\n\n\nRHEED\n\n\n\n\nFermi Level\n\n\n150.0\n\n\nmeV\n\n\nARPES",
     "crumbs": [
       "Material Database",
       "Available Materials",
@@ -143,7 +167,7 @@
     "href": "database/Bi2Se3 copy/index.html#key-properties",
     "title": "Bi2Se3 copy",
     "section": "Key Properties",
-    "text": "Key Properties",
+    "text": "Key Properties\nNo properties data available.",
     "crumbs": [
       "Material Database",
       "Available Materials",
@@ -155,7 +179,7 @@
     "href": "database/Bi2Se3 copy/index.html#characterization",
     "title": "Bi2Se3 copy",
     "section": "Characterization",
-    "text": "Characterization\n\n\n\nStructure",
+    "text": "Characterization\n\n\n\ndownload",
     "crumbs": [
       "Material Database",
       "Available Materials",

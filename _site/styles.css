@@ -1,1 +1,50 @@
-/* css styles */
+/* 1. CENTER ALIGNMENT & WIDTH LIMIT */
+/* margin-left: auto AND margin-right: auto = Centered */
+.page-columns, .quarto-container {
+    max-width: 1200px !important;
+    margin-left: auto !important; 
+    margin-right: auto !important;
+}
+
+/* 2. HIDE LINKS IN THE GLOBAL SIDEBAR */
+#quarto-sidebar-global-sidebar .sidebar-item {
+    visibility: hidden;
+    height: 0px;
+}
+
+#quarto-sidebar-global-sidebar {
+    background: #f8f9fa;
+    border-right: 1px solid #dee2e6;
+}
+
+/* 3. ALIGN NAVBAR WITH CONTENT */
+/* Center the navigation items to match the text below */
+.navbar .navbar-container {
+    max-width: 1200px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+/* --- SAFETY RULES (Keep these!) --- */
+
+/* Force images to shrink */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Contain tables */
+table {
+    max-width: 100%;
+    width: 100%;
+    display: block;
+    overflow-x: auto;
+}
+
+/* Wrap long text */
+body {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}

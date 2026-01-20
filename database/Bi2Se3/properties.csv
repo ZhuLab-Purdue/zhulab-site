@@ -1,0 +1,7 @@
+Property,Value,Unit,Measurement Method
+Bandgap,0.3,eV,STM/STS
+Lattice Constant,4.138,Angstrom,XRD
+Surface Mobility,2500,cm^2/Vs,Hall Effect
+Growth Temp,280,C,MBE
+Film Thickness,15,QL,RHEED
+Fermi Level,+150,meV,ARPES
